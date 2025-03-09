@@ -14,7 +14,7 @@ Users can enter:
 Rental owners can:  
 - Click **Connect Wallet** to log in.  
 - Access the **Dashboard** to manage listings.
-- 
+  
 ![home page](https://github.com/user-attachments/assets/1d3aa2a9-1141-454b-9865-e946cb2f8b3f)
 
 ---
