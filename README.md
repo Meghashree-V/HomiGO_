@@ -13,7 +13,8 @@ Users can enter:
 
 Rental owners can:  
 - Click **Connect Wallet** to log in.  
-- Access the **Dashboard** to manage listings.  
+- Access the **Dashboard** to manage listings.
+- 
 ![home page](https://github.com/user-attachments/assets/1d3aa2a9-1141-454b-9865-e946cb2f8b3f)
 
 ---
@@ -34,13 +35,15 @@ Rental owners can:
 ---
 
 ### 4. About Us  
-- Information about **HomiGO’s vision**, team, and purpose. 
+- Information about **HomiGO’s vision**, team, and purpose.
+- 
 ![Screenshot 2024-12-13 115105](https://github.com/user-attachments/assets/16ede05a-4a37-4864-92d5-a216dab3f03b)
 
 ---
 
 ### 5. Smart Contract Deployment Using Hardhat  
-- **Deployed on a test blockchain** using **Hardhat**.  
+- **Deployed on a test blockchain** using **Hardhat**.
+- 
 ![WhatsApp Image 2024-12-13 at 18 57 45_07a99493](https://github.com/user-attachments/assets/8a9832d3-910f-4e1b-a8d9-bc9111466bcd)
 
 ---
